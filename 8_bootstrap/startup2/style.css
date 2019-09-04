@@ -1,0 +1,44 @@
+body, html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: 'Bitter', serif;
+    background-image: url(LandingStock_image_28.jpg);
+    background-size: cover;
+}
+
+header.navigation ul {
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.nav-item {
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 3px solid rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    margin: 0px 10px;
+}
+
+.nav-link {
+    color: white;
+}
+
+main {
+    height: 80%
+}
+
+main .container {
+    height: 100%;
+}
+
+main h2 {
+    font-family: 'Bitter', serif;
+    color: white;
+}
+
+main .row {
+    height: 100%;
+}
