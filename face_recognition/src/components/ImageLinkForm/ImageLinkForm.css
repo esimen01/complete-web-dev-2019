@@ -1,0 +1,8 @@
+.form {
+    width: 700px;
+    background:
+    radial-gradient(circle at 0% 50%, rgba(205, 92, 92, 0) 9px, indianred 10px, rgba(205, 92, 92, 0) 11px) 0px 10px,
+    radial-gradient(at 100% 100%,      rgba(205, 92, 92, 0) 9px, indianred 10px, rgba(205, 92, 92, 0) 11px),
+    slateblue;
+    background-size: 20px 20px;
+}
